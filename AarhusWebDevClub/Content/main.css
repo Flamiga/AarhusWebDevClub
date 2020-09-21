@@ -1,0 +1,47 @@
+﻿body {
+    background-color: #FBEEE6;
+    margin: 30px;
+}
+
+.nav-link {
+    color: red;
+}
+
+    .nav-link:hover {
+        color: none;
+    }
+
+
+
+.columns {
+    border: 10px double;
+}
+
+h1 {
+    text-align: center;
+    background: rgb(225,206,76);
+    background: radial-gradient(circle, rgba(225,206,76,0.8804564061952906) 0%, rgba(248,103,36,0.9084676106770834) 100%);
+    padding: 15px;
+    color: floralwhite;
+}
+
+blockquote {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
+.sunset img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+}
+
+.profilImg img {
+    width: 50%;
+}
+
+.btn-default {
+    background-color: lightseagreen;
+    color: white;
+}
